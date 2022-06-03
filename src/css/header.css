@@ -1,0 +1,12 @@
+.header {
+  position: absolute;
+  height: 80px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+
+.logo {
+  margin: 0.5rem 0rem 0.5rem 3rem;
+}
