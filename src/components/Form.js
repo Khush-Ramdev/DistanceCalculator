@@ -13,6 +13,7 @@ const Form = () => {
       setCalculate(true);
     } else {
       setCalculate(false);
+      setDistance(0);
     }
   };
 
